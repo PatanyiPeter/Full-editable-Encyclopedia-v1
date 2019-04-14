@@ -1,0 +1,28 @@
+.title-input{
+	width: 70%;
+	float: inherit;
+	height: 50px;
+	color: #383838;
+	font-size: 200%;
+	box-shadow: 0px 0px 10px;
+	transition: box-shadow 2s;
+}
+.content-input{
+	height: 500px;
+	width: 90%;
+	color: #383838;
+	box-shadow: 0px 0px 10px;
+	transition: box-shadow 2s;
+}
+.submitbtn{
+	border:none;
+	color: white;
+	background-color: #383838;
+	box-shadow: 0px 0px 10px;
+	text-align: center;
+	font-size: 30px;
+	transition: background-color 0.5s;
+}
+.submitbtn:hover{
+	background-color: #6b6b6b;
+}
